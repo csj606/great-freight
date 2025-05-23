@@ -39,4 +39,4 @@ Make sure to install the Firebase CLI prior to following these steps. Note this 
 
 ## Future Plans
 
-Currently in the process of developing a Terraform script to automatically configure the necessary GCP resources.
+Currently developing a Terraform script to automatically provision the necessary GCP resources for deployment.
