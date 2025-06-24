@@ -36,7 +36,3 @@ Make sure to install the Firebase CLI prior to following these steps. Note this 
 2. flutter pub add firebase_core
 3. flutterfire configure
 4. flutter run
-
-## Future Plans
-
-Currently developing a Terraform script to automatically provision the necessary GCP resources for deployment.
